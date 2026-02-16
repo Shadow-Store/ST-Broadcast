@@ -1,0 +1,12 @@
+{
+    "allowedRoleId": "Role-id",
+    "TOKEN": "Bot-token",
+    "image": "https://r2.fivemanage.com/hT4nWxeZhMWPUpZmYuBro/logopng.png",
+    "cooldownSeconds": 30,
+    "dailyLimit": 30,
+    "api": {
+        "enabled": false,
+        "port": 3000,
+        "token": "CHANGE_THIS_API_KEY"
+    }
+}
