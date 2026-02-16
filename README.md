@@ -84,7 +84,7 @@ npm install
 ```bash
 node index.js
 ```
-أو双击 `start.bat` على Windows.
+أو `start.bat` على Windows.
 
 إذا رأيت `✅ bot is ready: ...` فهذا يعني أن البوت يعمل بنجاح.
 
